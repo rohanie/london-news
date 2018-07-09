@@ -1,16 +1,14 @@
 title : "rohanieyvette"
 email : "rohanie.ariola@gmail.com"
 description : "little-laughing-machine"
-baseurl : "" 
-url : "http://localhost:4000"
-twitter_username : jekyllrb
-github_username :  jekyll
+baseurl : "/london-site"
+url : "http://rohanieyvette.com"
 
 # Build settings
-#markdown : rdiscount
-#rdiscount :
-#   extensions : [smart]
-#permalink : /articles/:title
-theme: minima
-plugins:
-  - jekyll-feed
+markdown : rdiscount
+rdiscount :
+   extensions : [smart]
+permalink : /articles/:title
+#theme: minima
+#plugins:
+#  - jekyll-feed

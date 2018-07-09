@@ -1,4 +1,12 @@
+@font-face {
+	font-family: Paduka;
+	src: url('/fonts/Paduka.ttf');
+}
 
 .center {
 	text-align: center;
+}
+
+#cursive-font {
+	font-family: Paduka;
 }
